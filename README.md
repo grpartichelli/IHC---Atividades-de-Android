@@ -3,5 +3,8 @@ Resolução de Exercicios de Mobile para cadeira de Interação Humano Computado
 
 Atividade Prática 1 - Exercício 1:
 
-![alt text](https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex1/p1ex1-1.jpeg?raw=true)
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex1/p1ex1-2.jpeg" width="200">
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex1/p1ex1-1.jpeg" width="200">
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex1/p1ex1-3.jpeg" width="200">
+
 
