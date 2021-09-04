@@ -14,4 +14,10 @@ Atividade Prática 1 - Exercício 2:
 <img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex2/2.jpg" width="200">
 
 
+Atividade Prática 1 - Exercício 2:
+
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex3/1.jpg" width="200">
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p1ex3/2.jpg" width="200">
+
+
 
