@@ -37,5 +37,8 @@ Depois de ligar uma lâmpada na frente do celular:
 
 <img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p2ex1/2.jpg" width="200">
 
+**Atividade Prática 2 - Exercício 2:**
 
+Adicionando sensor giroscópio ao aplicativo anterior
 
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p2ex2/1.jpg" width="200">
