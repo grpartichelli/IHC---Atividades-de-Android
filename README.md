@@ -45,4 +45,4 @@ Adicionando sensor giroscópio ao aplicativo anterior
 
 **Atividade Prática 2 - Exercício 3:**
 
-<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p2ex3/1.jpg" width="200">
+<img src="https://github.com/grpartichelli/IHC-Atividades-de-Android/blob/master/Imagens/p2ex3/1.jpeg" width="200">
